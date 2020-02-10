@@ -2,7 +2,8 @@
 
 
 Python Code will firstly go to the website
->http://finans.mynet.com/borsa/hisseler/adana-adana-cimento-a/tarihselveriler/.
+>http://finans.mynet.com/borsa/hisseler/adana-adana-cimento-a/tarihselveriler/
+
 This website is about market data of “ADANA ÇİMENTO (A)”.
 
 Secondly, your code will take the day number as an input from the user. Your code will take data
